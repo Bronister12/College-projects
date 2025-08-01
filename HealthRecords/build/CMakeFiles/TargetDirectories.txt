@@ -1,0 +1,3 @@
+/home/mark/My/Projects/College/AssignmentBig/build/CMakeFiles/healthapp.dir
+/home/mark/My/Projects/College/AssignmentBig/build/CMakeFiles/edit_cache.dir
+/home/mark/My/Projects/College/AssignmentBig/build/CMakeFiles/rebuild_cache.dir
