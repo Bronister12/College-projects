@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/healthapp.dir/src/HealthData.cpp.o CMakeFiles/healthapp.dir/src/main.cpp.o -o healthapp 
