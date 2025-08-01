@@ -1,0 +1,5 @@
+Compile & Run:
+HealthRecords$ cd build
+HealthRecords/build$ cmake ..
+HealthRecords/build$ cmake --build .
+HealthRecords/build$ ./healthapp
